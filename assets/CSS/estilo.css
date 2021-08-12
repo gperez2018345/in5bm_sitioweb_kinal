@@ -107,13 +107,13 @@ div.info{
     height: 0px;
     background-color: #f5f5f5;
     overflow: hidden;
-    -webkit-transition: height 0.2s;x
+    -webkit-transition: height 0.2s;
 }
 
 p.info{
     margin: 20px;
     text-align: center;
-    color: #black;
+    color: black;
 }
 
 
