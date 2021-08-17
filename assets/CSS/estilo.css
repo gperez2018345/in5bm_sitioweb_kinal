@@ -41,7 +41,7 @@ Header ul img{
 }
 
 body {
-    background-color: white;
+    background-color: #E0F7FA;
 
 }
 
@@ -105,7 +105,7 @@ p.titulo {
 div.info{
     width: 600px;
     height: 0px;
-    background-color: #f5f5f5;
+    background-color: white;
     overflow: hidden;
     -webkit-transition: height 0.2s;
 }

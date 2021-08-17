@@ -41,7 +41,7 @@ Header ul img{
 }
 
 body {
-    background-color: white;
+    background-color: #E0F7FA;
 
 }
 
@@ -69,6 +69,7 @@ section p {
 p.biografia{
     padding-left: 50px;
     font-size: 17px;
+    
 }
 
 #footer{
