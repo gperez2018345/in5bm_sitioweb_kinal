@@ -1,5 +1,5 @@
 *{
-    margin:0;
+    margin:5px;
     padding:0;
     box-sizing: border-box;
     font-family: 'Century Gothic';
@@ -63,9 +63,4 @@ section p {
     padding: 5px;
     text-align: center;
     padding-right: 425px;
-}
-
-td{
-    height: 150px;
-    width: 300px;
 }

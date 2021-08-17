@@ -60,7 +60,27 @@ section h1 {
 }
 
 section p {
+    font-size: 23px;
     padding: 5px;
-    text-align: center;
-    padding-right: 425px;
+    text-align: left;
+    padding-left: 35px;
+}
+
+p.biografia{
+    padding-left: 50px;
+    font-size: 17px;
+}
+
+#footer{
+    height: 270px;
+    margin-top: 35px;
+    background-color: black;
+    overflow: hidden;
+    color: white;
+    
+}
+
+section img{
+    padding-right: 35px;
+    
 }
